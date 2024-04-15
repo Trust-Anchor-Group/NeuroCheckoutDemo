@@ -1,0 +1,12 @@
+<Module xmlns="http://waher.se/Schema/ModuleManifest.xsd">
+	<Folder name="Root">
+		<Folder name="NeuroCheckoutDemo">
+			<Content fileName="SelectPaymentMethod.md"/>
+			<Content fileName="CheckoutDemo.cssx"/>
+			<Content fileName="CheckoutDemo.js"/>
+			<Content fileName="CollectInformation.md"/>
+			<Content fileName="PaymentFailed.md"/>
+			<Content fileName="PaymentOk.md"/>
+		</Folder>
+	</Folder>
+</Module>
