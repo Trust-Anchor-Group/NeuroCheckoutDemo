@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{0465148E-C63A-43DF-9F87-8C184ECBF754}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NeuroCheckoutDemo", "NeuroCheckoutDemo", "{9F3A4AB6-BFAD-46AD-8117-B5B3C4AE05C1}"
+	ProjectSection(SolutionItems) = preProject
+		Root\NeuroCheckoutDemo\CheckoutDemo.md = Root\NeuroCheckoutDemo\CheckoutDemo.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F47A82CA-C1BD-45E8-9BC7-CC8D7B72954F}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9F3A4AB6-BFAD-46AD-8117-B5B3C4AE05C1} = {0465148E-C63A-43DF-9F87-8C184ECBF754}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {531445D9-09DD-4B66-82D8-4334DD40A2EA}
+	EndGlobalSection
+EndGlobal
