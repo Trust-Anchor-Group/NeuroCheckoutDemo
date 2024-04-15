@@ -27,7 +27,7 @@ You can either copy the files listed below to your Neuron(R), or install a prepa
 |:-----------------|:---------------------------------------------------------------------------------------------------------------|
 | Package          | `TAG.NeuroCheckoutDemo.package`                                                                                |
 | Installation key | `EkMCng7rNmWDL5RVdVRmRW6B6ZB83Oc/Dcmyn+cU5yGjCr2rw2kq22vePMUZvCPs3o87lYzrDYIA12e7069beeb8fd9d9182b566e41c7932` |
-| More Information | TBD                                                                                                            |
+| More Information | https://lab.tagroot.io/Community/Post/Neuro_Checkout_Demo                                                      |
 
 
 Project Files
