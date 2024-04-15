@@ -7,7 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{0465148E-C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NeuroCheckoutDemo", "NeuroCheckoutDemo", "{9F3A4AB6-BFAD-46AD-8117-B5B3C4AE05C1}"
 	ProjectSection(SolutionItems) = preProject
-		Root\NeuroCheckoutDemo\CheckoutDemo.md = Root\NeuroCheckoutDemo\CheckoutDemo.md
+		Root\NeuroCheckoutDemo\CheckoutDemo.js = Root\NeuroCheckoutDemo\CheckoutDemo.js
+		Root\NeuroCheckoutDemo\CheckoutDemo.cssx = Root\NeuroCheckoutDemo\CheckoutDemo.cssx
+		Root\NeuroCheckoutDemo\CollectInformation.md = Root\NeuroCheckoutDemo\CollectInformation.md
+		Root\NeuroCheckoutDemo\SelectPaymentMethod.md = Root\NeuroCheckoutDemo\SelectPaymentMethod.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F47A82CA-C1BD-45E8-9BC7-CC8D7B72954F}"
