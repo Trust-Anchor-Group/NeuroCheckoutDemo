@@ -1,8 +1,7 @@
 NeuroCheckoutDemo
-=====================
+====================
 
-This project contains a simple demo-page that shows how the Neuro-Checkout feature in the 
-TAG Neuron(R) works.
+This project contains a simple demo-page that shows how the Neuro-Checkout feature in the TAG Neuron(R) works.
 
 How the Neuro-Checkout works
 -------------------------------
@@ -17,6 +16,19 @@ page.
 
 For the Checkout to work you also need to enable the page to receive client push notifications from the Neuron(R). You do this by also including
 the `/Events.js` JavaScript file, also available in the Neuron(R) installation.
+
+Installable Package
+----------------------
+
+The `NeuroCheckoutDemo` project contains an example that uses the above checkout to mock the payment of something on the Neuron(R). 
+You can either copy the files listed below to your Neuron(R), or install a prepared package file containing the files.
+
+| Package information                                                                                                              ||
+|:-----------------|:---------------------------------------------------------------------------------------------------------------|
+| Package          | `TAG.NeuroCheckoutDemo.package`                                                                                |
+| Installation key | `EkMCng7rNmWDL5RVdVRmRW6B6ZB83Oc/Dcmyn+cU5yGjCr2rw2kq22vePMUZvCPs3o87lYzrDYIA12e7069beeb8fd9d9182b566e41c7932` |
+| More Information | TBD                                                                                                            |
+
 
 Project Files
 ----------------
@@ -57,8 +69,8 @@ Example of how to point a web folder to your project folder:
 developer folder. It is not necessary in a production environment, as the files are copied into the correct folders when the package 
 is installed.
 
-Runt the Demo
-----------------
+Run the Demo
+---------------
 
 Once you have copied the project files into a suitable folder, and possibly configured the `gateway.config` file and restarted the Neuron(R),
 open the `CollectInformation.md` file in a browser (using the appropriate URL) to test the demo of the Neuro-Checkout. The page takes the following
