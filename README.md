@@ -87,7 +87,3 @@ query parameters:
 So, if you run a development broker, listening on port 8081, you could invoke the checkout demo by navigating to:
 
 	http://localhost:8081/NeuroCheckoutDemo/CollectInformation.md?Description=Test&Amount=5
-
-On the Lab Neuron(R), you can test it here:
-
-	https://lab.tagroot.io/NeuroCheckoutDemo/CollectInformation.md?Description=Buying%20test%20item&Amount=50&Currency=SEK&Country=SE&Context=For%20Test
