@@ -27,6 +27,7 @@ input#Country
 .checkoutService img
 {
 	max-height:6em;
+	width:auto;
 }
 
 input[type="radio"]
